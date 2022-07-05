@@ -1,0 +1,11 @@
+C:\Users\elPijas\source\repos\CalculadoraGitHub\CalculadoraGitHub\bin\Debug\CalculadoraGitHub.exe.config
+C:\Users\elPijas\source\repos\CalculadoraGitHub\CalculadoraGitHub\bin\Debug\CalculadoraGitHub.exe
+C:\Users\elPijas\source\repos\CalculadoraGitHub\CalculadoraGitHub\bin\Debug\CalculadoraGitHub.pdb
+C:\Users\elPijas\source\repos\CalculadoraGitHub\CalculadoraGitHub\obj\Debug\CalculadoraGitHub.csproj.AssemblyReference.cache
+C:\Users\elPijas\source\repos\CalculadoraGitHub\CalculadoraGitHub\obj\Debug\CalculadoraGitHub.csproj.SuggestedBindingRedirects.cache
+C:\Users\elPijas\source\repos\CalculadoraGitHub\CalculadoraGitHub\obj\Debug\CalculadoraGitHub.Form1.resources
+C:\Users\elPijas\source\repos\CalculadoraGitHub\CalculadoraGitHub\obj\Debug\CalculadoraGitHub.Properties.Resources.resources
+C:\Users\elPijas\source\repos\CalculadoraGitHub\CalculadoraGitHub\obj\Debug\CalculadoraGitHub.csproj.GenerateResource.cache
+C:\Users\elPijas\source\repos\CalculadoraGitHub\CalculadoraGitHub\obj\Debug\CalculadoraGitHub.csproj.CoreCompileInputs.cache
+C:\Users\elPijas\source\repos\CalculadoraGitHub\CalculadoraGitHub\obj\Debug\CalculadoraGitHub.exe
+C:\Users\elPijas\source\repos\CalculadoraGitHub\CalculadoraGitHub\obj\Debug\CalculadoraGitHub.pdb
